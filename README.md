@@ -1,3 +1,6 @@
+
+![alt text](https://file.diplomeo-static.com/file/00/00/01/57/15701.svg "442")
+
 **Issue**
 ---
 
