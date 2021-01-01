@@ -6,7 +6,7 @@ To make sure you understand them all, let’s re-implement them!
 
 ---
 **Links useful** 
----
+
 
 ```
 [Own Allocator](https://www.codeproject.com/Articles/4795/C-Standard-Allocator-An-Introduction-and-Implement.com)
@@ -16,6 +16,3 @@ To make sure you understand them all, let’s re-implement them!
 [I'm an inline-style link](https://www.google.com)
 
 ```
----
-
-[I'm an inline-style link](https://www.google.com)
