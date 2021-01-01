@@ -9,9 +9,9 @@ To make sure you understand them all, let’s re-implement them!
 ---
 
 ```
-[Own Allocator](https://www.codeproject.com/Articles/4795/C-Standard-Allocator-An-Introduction-and-Implement)
+[Own Allocator](https://www.codeproject.com/Articles/4795/C-Standard-Allocator-An-Introduction-and-Implement.com)
 
-[Own STL Container](https://stackoverflow.com/questions/7758580/writing-your-own-stl-container)
+[Own STL Container](https://stackoverflow.com/questions/7758580/writing-your-own-stl-container.com)
 
 ```
 ---
